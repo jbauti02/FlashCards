@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Flash Cards!</string>
+    <string name="key">Key</string>
+    <string name="diff_key">Difficult Key</string>
+    <string name="pick_difficulty">Pick a Difficulty and Category!</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="flip">Touch text to flip!</string>
+    <string name="animals">Animals</string>
+    <string name="humans">Humans</string>
+    <string name="cars">Cars</string>
+    <string name="math">Math</string>
+    <string name="prev">Prev</string>
+    <string name="next">Next</string>
+    <string name="title_activity_card">Flash Cards!</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="action_settings">Settings</string>
+</resources>
