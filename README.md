@@ -5,7 +5,8 @@ yourself as you progress throughout
 the flash card categories.
 
 Developers:
-Joaquin Bautista
-Stephen Teacher
-Tobin Pomeroy
+Joaquin Bautista,
+Stephen Teacher,
+Tobin Pomeroy,
+and
 Rexhep Hertica
